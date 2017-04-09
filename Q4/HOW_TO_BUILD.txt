@@ -1,0 +1,20 @@
+-->TO EXECUTE IN LINUX RUN THE BASH FILE INCLUDED
+-->TO RUN IN WINDOWS COMMAND PROMPT READ THE READ_ME FILE INCLUDED
+-->TO GENERATE DOCUMENTATION:-
+
+
+->FOR Q4
+javadoc -d ./documentation main4.java
+open index.html in /documentation 
+
+->FOR BOY
+javadoc -d ./documentaion/boy boy.java
+open index.html in /documentation/boy
+
+->FOR GIRL
+javadoc -d ./documentation/girl girl.java
+open index.html in /documentation/girl
+
+->FOR GIFT
+javadoc -d ./documentation/gift gift.java
+open index.html in /documentation/gift
